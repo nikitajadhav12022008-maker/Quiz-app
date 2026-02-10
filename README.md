@@ -30,7 +30,7 @@ Make sure Python is installed on your system
 Clone the repository or download the file
 Run the program:
 ```bash
-python Quiz app.py
+python Quiz_app.py
 
 -----------
 
