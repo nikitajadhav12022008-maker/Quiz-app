@@ -1,4 +1,4 @@
-#Quiz app:
+#python based quiz app:
 score = 0
 q1 = input("capital of india:")
 if(q1.lower() == "delhi"):
@@ -10,3 +10,4 @@ if(q2 == "4"):
 
 
 print("score:",score)
+
