@@ -1,40 +1,40 @@
 ## 🧠 Quiz App (Python):
 
-A simple command-line Quiz Application built using Python.
+- A simple command-line Quiz Application built using Python.
 This mini project asks multiple-choice/general questions and displays the final score at the end.
 
 ---
 
 ## 🚀 Features:
 
--Displays quiz questions one by one
--Accepts user answers
--Calculates and shows final score
--Simple and interactive CLI interface
+- Displays quiz questions one by one
+- Accepts user answers
+- Calculates and shows final score
+- Simple and interactive CLI interface
 
 ---
 
 ## 🛠 Technologies Used:
 
--Python 3
+- Python 3
 
 ---
 
 ## 🧠 Concepts Used:
 
--Variables
--Conditional statements
--Loops
--User input
--Basic scoring logic
+- Variables
+- Conditional statements
+- Loops
+- User input
+- Basic scoring logic
 
 ----
 
 ## ▶️ How to Run:
 
--Make sure Python is installed on your system
--Clone the repository or download the file
--Run the program:
+- Make sure Python is installed on your system
+- Clone the repository or download the file
+- Run the program:
 ```bash
 python Quiz_app.py
 
@@ -57,11 +57,11 @@ Your Score: 2 / 2
 
 ## 🔮 Future Improvements:
 
--Add multiple-choice options
--Store questions in a file
--Add timer for each question
--Show correct answers for wrong attempts
--Convert into GUI using Tkinter
+- Add multiple-choice options
+- Store questions in a file
+- Add timer for each question
+- Show correct answers for wrong attempts
+- Convert into GUI using Tkinter
 
 ---
 
