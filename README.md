@@ -40,7 +40,7 @@ python Quiz_app.py
 
 ---
 
-📌 Sample Output:
+# 📌 Sample Output:
 
 Question 1: Capital of India?
 Your Answer: Delhi
@@ -55,7 +55,7 @@ Your Score: 2 / 2
 
 ---
 
-🔮 Future Improvements:
+# 🔮 Future Improvements:
 
 - Add multiple-choice options
 - Store questions in a file
@@ -65,7 +65,7 @@ Your Score: 2 / 2
 
 ---
 
-🙋‍♀️ Author:
+# 🙋‍♀️ Author:
 
 Nikita Jadhav
 
