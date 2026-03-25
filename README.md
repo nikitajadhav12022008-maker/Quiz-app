@@ -36,7 +36,7 @@ This mini project asks multiple-choice/general questions and displays the final 
 - Clone the repository or download the file
 - Run the program:
 ```bash
-python Quiz_app.py
+python quiz_app.py
 
 ---
 
