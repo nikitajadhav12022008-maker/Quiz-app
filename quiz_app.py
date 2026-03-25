@@ -1,4 +1,4 @@
-#python based quiz app:
+# Python based quiz app:
 score = 0
 q1 = input("capital of india:")
 if(q1.lower() == "delhi"):
