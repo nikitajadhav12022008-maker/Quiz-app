@@ -45,18 +45,6 @@ Your Score: 2 / 2
 
 ---
 
-## ▶️ How to Run:
-
-- Make sure Python is installed on your system
-- Clone the repository or download the file
-- Run the program:
-```bash
-python quiz_app.py
-
----
-
-
-
 # 🔮 Future Improvements:
 
 - Add multiple-choice options
@@ -66,6 +54,20 @@ python quiz_app.py
 - Convert into GUI using Tkinter
 
 ---
+
+## ▶️ How to Run:
+
+1.Make sure Python is installed on your system
+2.Clone the repository or download the file
+3. Run the program:
+```bash
+python quiz_app.py
+
+---
+
+
+
+
 
 # 🙋‍♀️ Author:
 
