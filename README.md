@@ -30,6 +30,21 @@ This mini project asks multiple-choice/general questions and displays the final 
 
 ----
 
+# 📌 Sample Output:
+
+- Question 1: Capital of India?
+Your Answer: Delhi
+Correct!
+
+- Question 2: 2 + 2 = ?
+Your Answer: 4
+Correct!
+
+- Quiz Completed!
+Your Score: 2 / 2
+
+---
+
 ## ▶️ How to Run:
 
 - Make sure Python is installed on your system
@@ -40,20 +55,7 @@ python quiz_app.py
 
 ---
 
-# 📌 Sample Output:
 
-Question 1: Capital of India?
-Your Answer: Delhi
-Correct!
-
-Question 2: 2 + 2 = ?
-Your Answer: 4
-Correct!
-
-Quiz Completed!
-Your Score: 2 / 2
-
----
 
 # 🔮 Future Improvements:
 
