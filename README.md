@@ -59,7 +59,7 @@ Your Score: 2 / 2
 
 1.Make sure Python is installed on your system
 2.Clone the repository or download the file
-3. Run the program:
+Run the program:
 ```bash
 python quiz_app.py
 
