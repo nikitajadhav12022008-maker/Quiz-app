@@ -57,17 +57,13 @@ Your Score: 2 / 2
 
 ## ▶️ How to Run:
 
-1.Make sure Python is installed on your system
-2.Clone the repository or download the file
-Run the program:
+- Make sure Python is installed on your system
+- - Clone the repository or download the file
+- Run the program:
 ```bash
 python quiz_app.py
 
 ---
-
-
-
-
 
 # 🙋‍♀️ Author:
 
